@@ -18,7 +18,7 @@ Note that if you do not want to mix your work and personal profile, we recommend
 You must have 2-Factor authentication turned on for your account, this is just a good idea in general.
 
 ## Membership and repository requests
-We don't have a very formal process right now, reach out to Will Breitkreutz or Lyle Seethaler (find e-mails in outlook, not going to put them here) via USACE e-mail to request access or new repositories.
+Please submit an issue in the [access-request](https://github.com/cwbi-apps/access-request) repository for new membership, changes to memberships or new repositories.
 
 ## Recomendations for your repositories
 We aren't going to be enforcing these (yet), but as a general rule, it's a good idea to set up your project with the following notices and license.  Feel free to use another license, the Apache 2 license lines up pretty well with the overall regulations, MIT is another good option.
