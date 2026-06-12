@@ -14,6 +14,9 @@ We understand there are reasons for maintaining a pseudonymous profile on Github
 
 Note that if you do not want to mix your work and personal profile, we recommend you create a separate account tied to your work e-mail address and use that for USACE projects.
 
+### Dormant Users
+Periodically CWBI will purge users we determine are dormant in order to free up licensed seats.  We use the GitHub definition of [dormant](https://docs.github.com/en/enterprise-cloud@latest/admin/managing-accounts-and-repositories/managing-users-in-your-enterprise/managing-dormant-users#about-dormant-users).  Please make sure that your account remains active to avoid any service interruption.
+
 ### 2FA
 You must have 2-Factor authentication turned on for your account, this is just a good idea in general.
 
